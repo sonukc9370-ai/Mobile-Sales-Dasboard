@@ -1,5 +1,6 @@
 # 📱 D Corp Mobile Sales Dashboard
 [![Mobile Sales Dashboard](Images/images1.png)](https://app.powerbi.com/view?r=eyJrIjoiMzY0OTJiYWEtNzNhNS00NjQ2LWJhZjQtZmVlNjc3OWI3OGRiIiwidCI6IjA1ODJiNDQ5LTFhZWEtNGM1ZC05YTE0LTA5NGZlYmI4NGFmNiJ9)
+> *👆 Click the image above to open the interactive Power BI report.*
 
 
 ## 📖 Project Overview
