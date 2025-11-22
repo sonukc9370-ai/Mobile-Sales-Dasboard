@@ -15,6 +15,13 @@ The report is designed with the following interactive visualizations:
     * **Pie Chart:** Transactions split by Payment Method (UPI, Credit Card, Debit Card, Cash).
     * **Bar Charts:** Sales breakdown by Mobile Model.
 * **Filtering:** Interactive slicers for Month, Brand, City, and Payment Method.
+* 
+---
+
+## 🛠️ Tech Stack
+* **Tool:** Microsoft Power BI Desktop
+* **Data Transformation:** Power Query Editor
+* **Language:** DAX (Data Analysis Expressions)
 
 ---
 
@@ -68,7 +75,3 @@ The following measures were created using DAX to aggregate data dynamically on t
 
 ---
 
-## 🛠️ Tech Stack
-* **Tool:** Microsoft Power BI Desktop
-* **Data Transformation:** Power Query Editor
-* **Language:** DAX (Data Analysis Expressions)
