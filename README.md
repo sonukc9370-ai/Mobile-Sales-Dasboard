@@ -1,8 +1,9 @@
 # 📱 D Corp Mobile Sales Dashboard
+[![Mobile Sales Dashboard](Images/images1.png)](https://app.powerbi.com/view?r=eyJrIjoiMzY0OTJiYWEtNzNhNS00NjQ2LWJhZjQtZmVlNjc3OWI3OGRiIiwidCI6IjA1ODJiNDQ5LTFhZWEtNGM1ZC05YTE0LTA5NGZlYmI4NGFmNiJ9)
+
 
 ## 📖 Project Overview
 This Power BI project analyzes the sales performance of "D Corp," a mobile phone retailer operating across major cities in India. The dashboard provides a comprehensive view of sales metrics, customer behavior, and product performance, enabling stakeholders to track revenue, quantity sold, and transaction volume across different regions, brands, and time periods.
-[![Mobile Sales Dashboard](Images/images1.png)](https://app.powerbi.com/view?r=eyJrIjoiMzY0OTJiYWEtNzNhNS00NjQ2LWJhZjQtZmVlNjc3OWI3OGRiIiwidCI6IjA1ODJiNDQ5LTFhZWEtNGM1ZC05YTE0LTA5NGZlYmI4NGFmNiJ9)
 
 ## 📊 Dashboard Features
 The report is designed with the following interactive visualizations:
